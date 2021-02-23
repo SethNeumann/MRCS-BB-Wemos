@@ -1,10 +1,3 @@
-### How to use this template:
-
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+This board contains a Wemos D1 processor, 1A regulator, level shifters and an MCP23017 to provide a rougth equivalent to a BB-Leo.
+This board has considerably more code space and will eventually support a "local fall back" mode when no CMRINet is present and may
+support other protocols over WiFi.  It will use John Plochers forthcoming cpNode sketch.
