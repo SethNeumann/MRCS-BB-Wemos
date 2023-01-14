@@ -66,170 +66,59 @@
 <layer number="97" name="Info" color="7" fill="1" visible="no" active="no"/>
 <layer number="98" name="Guide" color="6" fill="1" visible="no" active="no"/>
 <layer number="99" name="Anatomie" color="7" fill="1" visible="no" active="no"/>
-<layer number="100" name="Muster" color="0" fill="1" visible="no" active="no"/>
-<layer number="101" name="Hidden" color="57" fill="4" visible="yes" active="yes"/>
-<layer number="102" name="Changes" color="13" fill="1" visible="yes" active="yes"/>
-<layer number="103" name="tMap" color="7" fill="1" visible="no" active="yes"/>
-<layer number="104" name="Name" color="16" fill="1" visible="yes" active="yes"/>
-<layer number="105" name="tPlate" color="7" fill="1" visible="no" active="yes"/>
-<layer number="106" name="bPlate" color="7" fill="1" visible="no" active="yes"/>
-<layer number="107" name="Crop" color="7" fill="1" visible="no" active="yes"/>
-<layer number="108" name="fp8" color="7" fill="1" visible="no" active="yes"/>
-<layer number="109" name="fp9" color="7" fill="1" visible="no" active="yes"/>
-<layer number="110" name="fp0" color="7" fill="1" visible="no" active="yes"/>
-<layer number="111" name="bdokum" color="7" fill="1" visible="no" active="yes"/>
-<layer number="112" name="tSilk" color="7" fill="1" visible="no" active="no"/>
-<layer number="113" name="LOGO" color="7" fill="1" visible="no" active="yes"/>
-<layer number="114" name="Rect_Pads" color="7" fill="1" visible="no" active="yes"/>
-<layer number="115" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
-<layer number="116" name="Patch_BOT" color="9" fill="4" visible="no" active="yes"/>
-<layer number="117" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
-<layer number="118" name="Rect_Pads" color="7" fill="1" visible="no" active="no"/>
-<layer number="119" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="120" name="_bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="121" name="_tsilk" color="7" fill="1" visible="no" active="yes"/>
-<layer number="122" name="_bsilk" color="7" fill="1" visible="no" active="yes"/>
-<layer number="123" name="tTestmark" color="7" fill="1" visible="no" active="yes"/>
-<layer number="124" name="bTestmark" color="7" fill="1" visible="no" active="yes"/>
-<layer number="125" name="_tNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="126" name="_bNames" color="7" fill="1" visible="no" active="yes"/>
-<layer number="127" name="_tValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="128" name="_bValues" color="7" fill="1" visible="no" active="no"/>
-<layer number="129" name="Mask" color="7" fill="1" visible="no" active="yes"/>
-<layer number="130" name="SMDSTROOK" color="7" fill="1" visible="no" active="yes"/>
-<layer number="131" name="tAdjust" color="7" fill="1" visible="no" active="yes"/>
-<layer number="132" name="bAdjust" color="7" fill="1" visible="no" active="yes"/>
-<layer number="144" name="Drill_legend" color="7" fill="1" visible="no" active="yes"/>
-<layer number="146" name="Housing" color="7" fill="1" visible="no" active="yes"/>
-<layer number="147" name="Edge" color="7" fill="1" visible="no" active="yes"/>
-<layer number="148" name="ReferenceLC" color="7" fill="1" visible="no" active="yes"/>
-<layer number="149" name="ReferenceLS" color="7" fill="1" visible="no" active="yes"/>
-<layer number="150" name="Notes" color="7" fill="1" visible="no" active="yes"/>
-<layer number="151" name="HeatSink" color="7" fill="1" visible="no" active="yes"/>
-<layer number="152" name="_bDocu" color="7" fill="1" visible="no" active="no"/>
-<layer number="153" name="FabDoc1" color="6" fill="1" visible="no" active="no"/>
-<layer number="154" name="FabDoc2" color="2" fill="1" visible="no" active="no"/>
-<layer number="155" name="FabDoc3" color="7" fill="15" visible="no" active="no"/>
-<layer number="199" name="Contour" color="7" fill="1" visible="no" active="yes"/>
-<layer number="200" name="200bmp" color="1" fill="10" visible="no" active="yes"/>
-<layer number="201" name="201bmp" color="2" fill="10" visible="no" active="yes"/>
-<layer number="202" name="202bmp" color="3" fill="10" visible="no" active="yes"/>
-<layer number="203" name="203bmp" color="4" fill="10" visible="no" active="yes"/>
-<layer number="204" name="204bmp" color="5" fill="10" visible="no" active="yes"/>
-<layer number="205" name="205bmp" color="6" fill="10" visible="no" active="yes"/>
-<layer number="206" name="206bmp" color="7" fill="10" visible="no" active="yes"/>
-<layer number="207" name="207bmp" color="8" fill="10" visible="no" active="yes"/>
-<layer number="208" name="208bmp" color="9" fill="10" visible="no" active="yes"/>
-<layer number="209" name="209bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="210" name="210bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="211" name="211bmp" color="12" fill="1" visible="no" active="no"/>
-<layer number="212" name="212bmp" color="13" fill="1" visible="no" active="no"/>
-<layer number="213" name="213bmp" color="14" fill="1" visible="no" active="no"/>
-<layer number="214" name="214bmp" color="15" fill="1" visible="no" active="no"/>
-<layer number="215" name="215bmp" color="16" fill="1" visible="no" active="no"/>
-<layer number="216" name="216bmp" color="17" fill="1" visible="no" active="no"/>
-<layer number="217" name="217bmp" color="18" fill="1" visible="no" active="no"/>
-<layer number="218" name="218bmp" color="19" fill="1" visible="no" active="no"/>
-<layer number="219" name="219bmp" color="20" fill="1" visible="no" active="no"/>
-<layer number="220" name="220bmp" color="21" fill="1" visible="no" active="no"/>
-<layer number="221" name="221bmp" color="22" fill="1" visible="no" active="no"/>
-<layer number="222" name="222bmp" color="23" fill="1" visible="no" active="no"/>
-<layer number="223" name="223bmp" color="24" fill="1" visible="no" active="no"/>
-<layer number="224" name="224bmp" color="25" fill="1" visible="no" active="no"/>
-<layer number="225" name="225bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="226" name="226bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="227" name="227bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="228" name="228bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="229" name="229bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="230" name="230bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="231" name="231bmp" color="7" fill="1" visible="no" active="yes"/>
-<layer number="232" name="Eagle3D_PG2" color="7" fill="1" visible="no" active="yes"/>
-<layer number="233" name="Eagle3D_PG3" color="7" fill="1" visible="no" active="yes"/>
-<layer number="247" name="wrappinf" color="7" fill="1" visible="no" active="yes"/>
-<layer number="248" name="Housing" color="7" fill="1" visible="no" active="no"/>
-<layer number="249" name="Edge" color="7" fill="1" visible="no" active="no"/>
-<layer number="250" name="Descript" color="3" fill="1" visible="no" active="no"/>
-<layer number="251" name="SMDround" color="12" fill="11" visible="no" active="no"/>
-<layer number="252" name="BR-BS" color="7" fill="1" visible="no" active="yes"/>
-<layer number="253" name="BR-LS" color="7" fill="1" visible="no" active="yes"/>
-<layer number="254" name="cooling" color="7" fill="1" visible="no" active="yes"/>
-<layer number="255" name="routoute" color="7" fill="1" visible="no" active="yes"/>
+<layer number="125" name="_tNames" color="14" fill="1" visible="no" active="yes"/>
 </layers>
 <board>
 <plain>
-<wire x1="21.098" y1="-0.381" x2="-0.746" y2="51.562" width="1.778" layer="52"/>
-<wire x1="-0.111" y1="39.878" x2="23.13" y2="48.895" width="2.54" layer="52"/>
-<text x="72.882" y="9.7282" size="1.27" layer="52" rot="MR0">Made in the PCR,
+<wire x1="20.463" y1="0.889" x2="0.524" y2="48.895" width="1.778" layer="22"/>
+<wire x1="-0.111" y1="39.878" x2="20.336" y2="48.514" width="2.54" layer="22"/>
+<text x="72.882" y="9.7282" size="1.27" layer="22" font="vector" rot="MR0">Made in the PCR,
 Coast Division, NMRA</text>
-<text x="51.8332" y="19.3998" size="1.4224" layer="52" font="vector" ratio="15" rot="MR180">www. SP Coast .com</text>
-<text x="49.0277" y="39.7382" size="1.4224" layer="52" font="vector" ratio="15" rot="SMR180">I2C master and CMRI Node</text>
-<text x="25.2128" y="48.133" size="3.81" layer="52" font="vector" ratio="15" rot="SMR180">cpNode
-WeMOS D1 Mini</text>
-<text x="2.3221" y="4.3887" size="1.4224" layer="52" font="vector" rot="MR90">Model Railroading is fun!</text>
-<text x="15.002" y="48.133" size="1.4224" layer="52" font="vector" ratio="15" rot="MR333">Go Bears!</text>
-<text x="5.70024375" y="48.305259375" size="1.016" layer="51">John Plocher</text>
-<text x="3.84299375" y="43.447509375" size="1.4224" layer="51" ratio="10">Open Source</text>
-<text x="5.25599375" y="41.272759375" size="1.4224" layer="51" ratio="10">Hardware</text>
-<wire x1="6.874" y1="24.003" x2="27.575" y2="34.29" width="2.54" layer="52"/>
-<wire x1="11.954" y1="11.303" x2="32.02" y2="21.59" width="2.54" layer="52"/>
-<wire x1="17.034" y1="2.413" x2="36.465" y2="9.525" width="2.54" layer="52"/>
-<wire x1="31.893" y1="-1.905" x2="38.243" y2="2.032" width="2.54" layer="52"/>
-<text x="1.42875" y="5.61975" size="1.27" layer="51">VIN</text>
-<text x="11.8016" y="1.28905" size="1.27" layer="51" ratio="10" rot="SR0">1.5A</text>
-<text x="33.57735625" y="46.820028125" size="3.048" layer="51" ratio="15" rot="SR0">cpNode WeMos</text>
-<wire x1="37.608" y1="-0.381" x2="15.764" y2="54.737" width="1.778" layer="52"/>
-<text x="42.6777" y="33.3882" size="1.4224" layer="52" font="vector" ratio="15" rot="SMR180">For use with WeMOS D1 ESP8266</text>
-<text x="7.09724375" y="46.527759375" size="1.016" layer="51">2019.07</text>
-<text x="50.95875" y="28.79725" size="1.27" layer="21" rot="R180">WeMOS D1 Mini R2</text>
-<text x="80.599740625" y="45.70524375" size="1.4224" layer="51" rot="R90">v1.0</text>
-<wire x1="0" y1="0" x2="0" y2="50.8" width="0.254" layer="20"/>
-<wire x1="0" y1="50.8" x2="81.28" y2="50.8" width="0.254" layer="20"/>
-<wire x1="81.28" y1="50.8" x2="81.28" y2="0" width="0.254" layer="20"/>
+<text x="51.8332" y="19.3998" size="1.4224" layer="22" font="vector" ratio="15" rot="MR180">www. SP Coast .com</text>
+<text x="49.0277" y="39.7382" size="1.4224" layer="22" font="vector" ratio="15" rot="SMR180">I2C master and CMRI Node</text>
+<text x="43.1132" y="41.275" size="2.54" layer="22" font="vector" ratio="15" rot="SMR0">D1 Mini</text>
+<text x="2.3221" y="4.3887" size="1.4224" layer="22" font="vector" rot="MR90">Model Railroading is fun!</text>
+<text x="13.732" y="48.133" size="1.4224" layer="22" font="vector" ratio="15" rot="MR333">Go Bears!</text>
+<text x="5.06524375" y="45.765259375" size="1.016" layer="21" font="vector">MRCS
+John Plocher</text>
+<text x="24.79799375" y="27.318509375" size="1.4224" layer="21" font="vector" ratio="10">Open Source</text>
+<text x="26.84599375" y="25.397759375" size="1.4224" layer="21" font="vector" ratio="10">Hardware</text>
+<wire x1="5.604" y1="25.273" x2="29.099" y2="37.211" width="2.54" layer="22"/>
+<wire x1="9.414" y1="13.843" x2="33.29" y2="24.13" width="2.54" layer="22"/>
+<wire x1="14.748" y1="1.397" x2="38.243" y2="10.414" width="2.54" layer="22"/>
+<wire x1="37.735" y1="1.397" x2="38.878" y2="2.032" width="2.54" layer="22"/>
+<text x="2.19075" y="3.46075" size="1.27" layer="21" font="vector">VIN</text>
+<text x="13.0716" y="5.60705" size="1.27" layer="21" font="vector" ratio="10" rot="SR0">1.5A</text>
+<text x="35.99035625" y="45.550028125" size="3.048" layer="21" font="vector" ratio="15" rot="SR0">cpNode WeMos</text>
+<wire x1="36.973" y1="0.889" x2="17.796" y2="49.149" width="1.778" layer="22"/>
+<text x="42.6777" y="33.3882" size="1.4224" layer="22" font="vector" ratio="15" rot="SMR180">For use with WeMOS D1 ESP8266</text>
+<text x="6.97024375" y="42.209759375" size="1.016" layer="21" font="vector">2019.07
+2023.01</text>
+<text x="70.45325" y="45.75175" size="1.016" layer="21" font="vector">I2C 23017 &amp;
+D1 Mini R2</text>
+<text x="39.22824375" y="42.717259375" size="1.4224" layer="21" font="vector">v1.1</text>
+<wire x1="0" y1="0" x2="0" y2="50" width="0.254" layer="20"/>
+<wire x1="0" y1="50" x2="81.28" y2="50" width="0.254" layer="20"/>
+<wire x1="81.28" y1="50" x2="81.28" y2="0" width="0.254" layer="20"/>
 <wire x1="81.28" y1="0" x2="0" y2="0" width="0.254" layer="20"/>
-<text x="68.58" y="31.75" size="1.016" layer="51" font="vector" ratio="10">I2C Address 7</text>
+<text x="68.58" y="32.512" size="1.016" layer="21" font="vector" ratio="10">I2C Address 7</text>
+<text x="30.46095" y="10.5316" size="1.27" layer="21" font="vector" ratio="10" rot="SR90">3v3 to 5v
+level shifter</text>
+<text x="52.4416" y="15.25905" size="1.27" layer="21" font="vector" ratio="10" rot="SR0">Wemos D1 Mini</text>
+<text x="69.7832" y="45.72" size="3.81" layer="22" font="vector" ratio="15" rot="SMR0">cpNode Wemos</text>
+<text x="51.8332" y="21.9398" size="1.4224" layer="22" font="vector" ratio="15" rot="MR180">www. SP Coast .com</text>
+<text x="23.803" y="10.714" size="1.27" layer="125" font="vector">C1</text>
+<text x="3.928871875" y="16.84015" size="1.27" layer="125" font="vector" rot="R135">C2</text>
+<text x="16.93194375" y="16.7664125" size="1.27" layer="125" font="vector" rot="R45">C3</text>
+<text x="43.053" y="36.83" size="1.778" layer="125" font="vector" ratio="10" rot="R90">IC1</text>
+<text x="12.54125" y="19.84375" size="1.27" layer="125" font="vector" ratio="11" rot="R180">VR5.0</text>
+<text x="4.064" y="22.352" size="1.27" layer="21" font="vector" ratio="10" rot="R90">1.0uF</text>
+<text x="16.002" y="23.114" size="1.27" layer="21" font="vector" ratio="10" rot="R90">10uF</text>
+<text x="9.144" y="16.764" size="1.27" layer="21" font="vector" ratio="10">5v</text>
+<text x="19.177" y="15.113" size="1.27" layer="21" font="vector" ratio="10">150uF</text>
+<text x="46.482" y="38.481" size="1.778" layer="21" font="vector" ratio="10">MCP23017SP</text>
 </plain>
 <libraries>
-<library name="SparkFun">
-<packages>
-<package name="OSHW-LOGO-L">
-<polygon width="0.15" layer="21">
-<vertex x="0.9209" y="-2.2231" curve="9.497479"/>
-<vertex x="1.2751" y="-2.0407"/>
-<vertex x="2.1548" y="-2.758"/>
-<vertex x="2.758" y="-2.1548"/>
-<vertex x="2.0407" y="-1.2751" curve="18.998791"/>
-<vertex x="2.3446" y="-0.5413"/>
-<vertex x="3.4739" y="-0.4265"/>
-<vertex x="3.4739" y="0.4265"/>
-<vertex x="2.3446" y="0.5413" curve="18.998791"/>
-<vertex x="2.0407" y="1.2751"/>
-<vertex x="2.758" y="2.1548"/>
-<vertex x="2.1548" y="2.758"/>
-<vertex x="1.2751" y="2.0407" curve="18.998791"/>
-<vertex x="0.5413" y="2.3446"/>
-<vertex x="0.4265" y="3.4739"/>
-<vertex x="-0.4265" y="3.4739"/>
-<vertex x="-0.5413" y="2.3446" curve="18.998791"/>
-<vertex x="-1.2751" y="2.0407"/>
-<vertex x="-2.1548" y="2.758"/>
-<vertex x="-2.758" y="2.1548"/>
-<vertex x="-2.0407" y="1.2751" curve="18.998791"/>
-<vertex x="-2.3446" y="0.5413"/>
-<vertex x="-3.4739" y="0.4265"/>
-<vertex x="-3.4739" y="-0.4265"/>
-<vertex x="-2.3446" y="-0.5413" curve="18.998791"/>
-<vertex x="-2.0407" y="-1.2751"/>
-<vertex x="-2.758" y="-2.1548"/>
-<vertex x="-2.1548" y="-2.758"/>
-<vertex x="-1.2751" y="-2.0407" curve="9.497479"/>
-<vertex x="-0.9209" y="-2.2231"/>
-<vertex x="-0.4186" y="-1.0105" curve="-67.504205"/>
-<vertex x="-1.0938" y="0" curve="-247.497204"/>
-<vertex x="0.4186" y="-1.0105"/>
-</polygon>
-</package>
-</packages>
-</library>
 <library name="SPCoast">
 <packages>
 <package name="C050-024X044">
@@ -258,29 +147,25 @@ WeMOS D1 Mini</text>
 <package name="DCJ0202">
 <description>DC POWER JACK
 Source: DCJ0202.pdf</description>
-<wire x1="-4.3" y1="-10.4" x2="4.3" y2="-10.4" width="0.2032" layer="21"/>
-<wire x1="4.3" y1="-10.4" x2="4.3" y2="3.9" width="0.2032" layer="51"/>
-<wire x1="4.3" y1="3.9" x2="-4.3" y2="3.9" width="0.2032" layer="51"/>
-<wire x1="-4.3" y1="3.9" x2="-4.3" y2="-10.4" width="0.2032" layer="21"/>
 <wire x1="-2.7" y1="3.9" x2="-4.3" y2="3.9" width="0.2032" layer="21"/>
 <wire x1="4.3" y1="3.9" x2="2.7" y2="3.9" width="0.2032" layer="21"/>
-<wire x1="-3" y1="-10.275" x2="-3" y2="-3" width="0.2032" layer="51" style="shortdash"/>
-<wire x1="3" y1="-10.3" x2="3" y2="-3" width="0.2032" layer="51" style="shortdash"/>
+<wire x1="-3" y1="-10.275" x2="-3" y2="-3" width="0.2032" layer="21" style="shortdash"/>
+<wire x1="3" y1="-10.3" x2="3" y2="-3" width="0.2032" layer="21" style="shortdash"/>
 <wire x1="3" y1="-3" x2="-3" y2="-3" width="0.2032" layer="51" style="shortdash"/>
-<wire x1="-0.9" y1="-9" x2="-0.9" y2="-4.5" width="0.2032" layer="51" style="shortdash"/>
-<wire x1="0.9" y1="-9" x2="0.9" y2="-4.5" width="0.2032" layer="51" style="shortdash"/>
-<wire x1="-0.9" y1="-9" x2="0.9" y2="-9" width="0.2032" layer="51" curve="166.57811"/>
-<wire x1="4.3" y1="-10.4" x2="4.3" y2="-2.45" width="0.2032" layer="21"/>
-<wire x1="4.3" y1="2.3" x2="4.3" y2="3.9" width="0.2032" layer="21"/>
-<wire x1="-4.3" y1="3.9" x2="-4.3" y2="-10.4" width="0.2032" layer="51"/>
-<wire x1="-4.3" y1="-10.4" x2="4.3" y2="-10.4" width="0.2032" layer="51"/>
+<wire x1="-0.9" y1="-9" x2="-0.9" y2="-5.588" width="0.2032" layer="21" style="shortdash"/>
+<wire x1="0.9" y1="-9" x2="0.9" y2="-5.588" width="0.2032" layer="21" style="shortdash"/>
+<wire x1="-0.9" y1="-9" x2="0.9" y2="-9" width="0.2032" layer="21" curve="166.57811"/>
+<wire x1="4.3" y1="-10.4" x2="4.3" y2="-2.54" width="0.2032" layer="21"/>
+<wire x1="4.3" y1="2.54" x2="4.3" y2="3.9" width="0.2032" layer="21"/>
+<wire x1="-4.3" y1="3.9" x2="-4.3" y2="-10.4" width="0.2032" layer="21"/>
+<wire x1="-4.3" y1="-10.4" x2="4.3" y2="-10.4" width="0.2032" layer="21"/>
 <pad name="1" x="0" y="3.175" drill="3.1" diameter="4.5" shape="octagon"/>
 <pad name="3" x="0" y="-3.175" drill="3.1" diameter="4.7"/>
 <pad name="2" x="4.7625" y="0" drill="3.1" diameter="4.7"/>
-<text x="-3.81" y="5.08" size="1.27" layer="25">&gt;NAME</text>
+<text x="-5.08" y="-1.27" size="1.27" layer="25" rot="R90">&gt;NAME</text>
 <text x="-5.08" y="-10.16" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 </package>
-<package name="E5-10,5">
+<package name="E5-10.5">
 <description>ELECTROLYTIC CAPACITOR grid 5.08 mm, diameter 10.5 mm</description>
 <wire x1="-1.143" y1="0" x2="-0.889" y2="0" width="0.1524" layer="21"/>
 <wire x1="-0.889" y1="0" x2="-0.889" y2="-1.143" width="0.1524" layer="21"/>
@@ -330,10 +215,10 @@ Source: DCJ0202.pdf</description>
 <pad name="OUT" x="2.54" y="-3.81" drill="1.016" shape="long" rot="R90"/>
 <text x="-3.81" y="5.08" size="1.778" layer="25" ratio="10">&gt;NAME</text>
 <text x="-3.937" y="2.54" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
-<text x="-4.445" y="7.874" size="0.9906" layer="21" ratio="10">A15,2mm</text>
-<text x="-0.508" y="0" size="1.27" layer="51" ratio="10">-</text>
-<text x="-3.048" y="0" size="1.27" layer="51" ratio="10">I</text>
-<text x="2.032" y="0" size="1.27" layer="51" ratio="10">O</text>
+<text x="-4.445" y="7.874" size="0.9906" layer="51" ratio="10">A15,2mm</text>
+<text x="-0.508" y="0" size="1.27" layer="21" ratio="10">-</text>
+<text x="-3.048" y="0" size="1.27" layer="21" ratio="10">I</text>
+<text x="2.032" y="0" size="1.27" layer="21" ratio="10">O</text>
 <rectangle x1="1.905" y1="-2.159" x2="3.175" y2="-1.27" layer="21"/>
 <rectangle x1="1.905" y1="-3.81" x2="3.175" y2="-2.159" layer="51"/>
 <rectangle x1="-0.635" y1="-2.159" x2="0.635" y2="-1.27" layer="21"/>
@@ -341,6 +226,21 @@ Source: DCJ0202.pdf</description>
 <rectangle x1="-0.635" y1="-3.81" x2="0.635" y2="-2.159" layer="51"/>
 <rectangle x1="-3.175" y1="-3.81" x2="-1.905" y2="-2.159" layer="51"/>
 <hole x="0" y="11.176" drill="3.302"/>
+<polygon width="0.000128125" layer="29">
+<vertex x="-5.207" y="14.605"/>
+<vertex x="5.207" y="14.605"/>
+<vertex x="5.207" y="12.827"/>
+<vertex x="4.318" y="12.827"/>
+<vertex x="4.318" y="11.049"/>
+<vertex x="5.207" y="11.049"/>
+<vertex x="5.207" y="11.176"/>
+<vertex x="5.207" y="-1.397"/>
+<vertex x="-5.08" y="-1.397"/>
+<vertex x="-5.08" y="11.176"/>
+<vertex x="-4.191" y="11.176"/>
+<vertex x="-4.191" y="12.827"/>
+<vertex x="-5.207" y="12.827"/>
+</polygon>
 </package>
 <package name="WEMOS-D1">
 <pad name="RST" x="-11.43" y="10.16" drill="0.9"/>
@@ -369,7 +269,7 @@ Source: DCJ0202.pdf</description>
 <wire x1="12.7" y1="16.51" x2="12.7" y2="12.7" width="0.127" layer="21"/>
 <wire x1="12.7" y1="12.7" x2="12.7" y2="-17.78" width="0.127" layer="21"/>
 <wire x1="12.7" y1="-17.78" x2="-10.16" y2="-17.78" width="0.127" layer="21"/>
-<text x="-7.62" y="-16.51" size="1.27" layer="51" rot="R90">Reset</text>
+<text x="-7.62" y="-16.51" size="1.27" layer="21" font="vector" rot="R90">Reset</text>
 <wire x1="-12.7" y1="12.7" x2="12.7" y2="12.7" width="0.127" layer="21"/>
 <text x="3.81" y="16.51" size="1.27" layer="25" rot="SR180">&gt;NAME</text>
 <wire x1="-8.89" y1="12.7" x2="8.89" y2="12.7" width="0.127" layer="40"/>
@@ -410,8 +310,8 @@ Source: DCJ0202.pdf</description>
 <pad name="+5V@2" x="40.64" y="2.54" drill="0.8" shape="octagon"/>
 <pad name="RX" x="68.58" y="30.48" drill="0.8" shape="octagon"/>
 <pad name="TX" x="66.04" y="30.48" drill="0.8" shape="octagon"/>
-<pad name="D2" x="63.5" y="30.48" drill="0.8" shape="octagon"/>
-<pad name="D3" x="60.96" y="30.48" drill="0.8" shape="octagon"/>
+<pad name="SDA" x="63.5" y="30.48" drill="0.8" shape="octagon"/>
+<pad name="SCL" x="60.96" y="30.48" drill="0.8" shape="octagon"/>
 <pad name="D4" x="58.42" y="30.48" drill="0.8" shape="octagon"/>
 <pad name="D5" x="55.88" y="30.48" drill="0.8" shape="octagon"/>
 <pad name="D6" x="53.34" y="30.48" drill="0.8" shape="octagon"/>
@@ -430,15 +330,15 @@ Source: DCJ0202.pdf</description>
 <pad name="A3" x="17.78" y="30.48" drill="0.8" shape="octagon"/>
 <pad name="A4" x="15.24" y="30.48" drill="0.8" shape="octagon"/>
 <pad name="A5" x="12.7" y="30.48" drill="0.8" shape="octagon"/>
-<wire x1="0" y1="33.274" x2="72.39" y2="33.274" width="0.000128125" layer="21"/>
-<wire x1="72.39" y1="33.274" x2="72.39" y2="0" width="0.000128125" layer="21"/>
-<wire x1="72.39" y1="0" x2="0" y2="0" width="0.000128125" layer="21"/>
-<wire x1="0" y1="0" x2="0" y2="33.274" width="0.000128125" layer="21"/>
+<wire x1="0" y1="33.274" x2="72.39" y2="33.274" width="0.000128125" layer="43"/>
+<wire x1="72.39" y1="33.274" x2="72.39" y2="0" width="0.000128125" layer="43"/>
+<wire x1="72.39" y1="0" x2="0" y2="0" width="0.000128125" layer="43"/>
+<wire x1="0" y1="0" x2="0" y2="33.274" width="0.000128125" layer="43"/>
 <wire x1="-2.54" y1="12.7" x2="-2.54" y2="3.81" width="0.000128125" layer="43"/>
 <wire x1="-2.54" y1="3.81" x2="11.43" y2="3.81" width="0.000128125" layer="43"/>
 <wire x1="11.43" y1="3.81" x2="11.43" y2="12.7" width="0.000128125" layer="43"/>
 <wire x1="11.43" y1="12.7" x2="-2.54" y2="12.7" width="0.000128125" layer="43"/>
-<text x="1.27" y="7.62" size="1.4224" layer="43" font="vector">9v DC</text>
+<text x="-1.27" y="6.985" size="0.6096" layer="51" font="vector" rot="R90">9v DC</text>
 <text x="13.97" y="2.54" size="1.778" layer="48" font="vector">Modern Devices
 BBLeo</text>
 </package>
@@ -475,32 +375,43 @@ BBLeo</text>
 <text x="-3.175" y="0.635" size="1.27" layer="21">g</text>
 <text x="2.54" y="0.635" size="1.27" layer="21">g</text>
 </package>
-</packages>
-</library>
-<library name="SPCoast-minimal">
-<packages>
-<package name="POWER_USAGE">
-<wire x1="0.3175" y1="0.635" x2="-0.3175" y2="0.635" width="0.127" layer="51" curve="-306.869898"/>
-<wire x1="0" y1="0.3175" x2="0" y2="1.905" width="0.127" layer="51"/>
-<wire x1="0" y1="-0.7366" x2="0" y2="-1.905" width="0.127" layer="51"/>
-<circle x="0" y="0" radius="0.3175" width="0.127" layer="51"/>
-<text x="-1.27" y="-3.175" size="1.27" layer="51" rot="R90">&gt;VALUE</text>
-<text x="0.3175" y="-3.175" size="1.27" layer="51" rot="R90">-</text>
-<text x="0.3175" y="2.2225" size="1.27" layer="51" rot="R90">+</text>
+<package name="OSHW-LOGO-L">
+<polygon width="0.15" layer="21">
+<vertex x="0.9209" y="-2.2231" curve="9.497479"/>
+<vertex x="1.2751" y="-2.0407"/>
+<vertex x="2.1548" y="-2.758"/>
+<vertex x="2.758" y="-2.1548"/>
+<vertex x="2.0407" y="-1.2751" curve="18.998791"/>
+<vertex x="2.3446" y="-0.5413"/>
+<vertex x="3.4739" y="-0.4265"/>
+<vertex x="3.4739" y="0.4265"/>
+<vertex x="2.3446" y="0.5413" curve="18.998791"/>
+<vertex x="2.0407" y="1.2751"/>
+<vertex x="2.758" y="2.1548"/>
+<vertex x="2.1548" y="2.758"/>
+<vertex x="1.2751" y="2.0407" curve="18.998791"/>
+<vertex x="0.5413" y="2.3446"/>
+<vertex x="0.4265" y="3.4739"/>
+<vertex x="-0.4265" y="3.4739"/>
+<vertex x="-0.5413" y="2.3446" curve="18.998791"/>
+<vertex x="-1.2751" y="2.0407"/>
+<vertex x="-2.1548" y="2.758"/>
+<vertex x="-2.758" y="2.1548"/>
+<vertex x="-2.0407" y="1.2751" curve="18.998791"/>
+<vertex x="-2.3446" y="0.5413"/>
+<vertex x="-3.4739" y="0.4265"/>
+<vertex x="-3.4739" y="-0.4265"/>
+<vertex x="-2.3446" y="-0.5413" curve="18.998791"/>
+<vertex x="-2.0407" y="-1.2751"/>
+<vertex x="-2.758" y="-2.1548"/>
+<vertex x="-2.1548" y="-2.758"/>
+<vertex x="-1.2751" y="-2.0407" curve="9.497479"/>
+<vertex x="-0.9209" y="-2.2231"/>
+<vertex x="-0.4186" y="-1.0105" curve="-67.504205"/>
+<vertex x="-1.0938" y="0" curve="-247.497204"/>
+<vertex x="0.4186" y="-1.0105"/>
+</polygon>
 </package>
-</packages>
-</library>
-<library name="microchip">
-<description>&lt;b&gt;Microchip PIC Microcontrollers and other Devices&lt;/b&gt;&lt;p&gt;
-Based on the following sources :
-&lt;ul&gt;
-&lt;li&gt;Microchip Data Book, 1993
-&lt;li&gt;THE EMERGING WORLD STANDARD, 1995/1996
-&lt;li&gt;Microchip, Technical Library CD-ROM, June 1998
-&lt;li&gt;www.microchip.com
-&lt;/ul&gt;
-&lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
-<packages>
 <package name="DIL28-3">
 <description>&lt;B&gt;Dual In Line&lt;/B&gt;&lt;p&gt;
 package type P</description>
@@ -540,6 +451,27 @@ package type P</description>
 <pad name="28" x="-16.51" y="3.81" drill="0.8128" shape="long" rot="R90"/>
 <text x="-17.907" y="-2.54" size="1.778" layer="25" ratio="10" rot="R90">&gt;NAME</text>
 <text x="-15.748" y="-0.9398" size="1.778" layer="27" ratio="10">&gt;VALUE</text>
+</package>
+<package name="PWR_LABEL">
+<wire x1="0.3175" y1="0.635" x2="-0.3175" y2="0.635" width="0.127" layer="21" curve="-306.869898"/>
+<wire x1="0" y1="0.3175" x2="0" y2="1.27" width="0.127" layer="21"/>
+<wire x1="0" y1="-0.7366" x2="0" y2="-1.905" width="0.127" layer="21"/>
+<circle x="0" y="0" radius="0.3175" width="0.127" layer="21"/>
+<text x="-1.27" y="-3.175" size="1.27" layer="21" rot="R90">&gt;VALUE</text>
+<text x="0.3175" y="-2.54" size="1.27" layer="21" rot="R90">-</text>
+<text x="0.3175" y="1.5875" size="1.27" layer="21" rot="R90">+</text>
+</package>
+<package name="MRCS-LOGO">
+<wire x1="2.54" y1="0" x2="-2.54" y2="0" width="1.27" layer="21"/>
+<wire x1="0" y1="5.08" x2="0" y2="10.16" width="0.8128" layer="21"/>
+<wire x1="0" y1="10.16" x2="0" y2="15.24" width="0.8128" layer="21"/>
+<wire x1="0" y1="0" x2="0" y2="5.08" width="1.27" layer="21"/>
+<wire x1="0" y1="15.24" x2="2.54" y2="12.7" width="0.8128" layer="21"/>
+<wire x1="0" y1="10.16" x2="2.54" y2="10.16" width="0.8128" layer="21"/>
+<text x="3.175" y="8.255" size="1.27" layer="21">Model
+ Railroad
+  Control
+   Systems</text>
 </package>
 </packages>
 </library>
@@ -744,46 +676,49 @@ design rules under a new name.</description>
 </pass>
 </autorouter>
 <elements>
-<element name="OSHW1" library="SparkFun" package="OSHW-LOGO-L" value="OSHW-LOGOL" x="23.495" y="46.355" smashed="yes"/>
+<element name="OSHW1" library="SPCoast" package="OSHW-LOGO-L" value="DOC-OSHW-LOGO-L" x="31.75" y="34.29" smashed="yes"/>
 <element name="J1" library="SPCoast" package="DCJ0202" value="" x="8.89" y="11.43" smashed="yes" rot="R270"/>
-<element name="LABEL1" library="SPCoast-minimal" package="POWER_USAGE" value="7-12vDC" x="5.08" y="3.81" smashed="yes" rot="R90">
-<attribute name="VALUE" x="8.255" y="2.54" size="1.27" layer="51" rot="R180"/>
+<element name="LABEL1" library="SPCoast" package="PWR_LABEL" value="7-12vDC" x="14.605" y="4.318" smashed="yes" rot="R90">
+<attribute name="VALUE" x="19.05" y="3.048" size="1.27" layer="21" font="vector" rot="R180"/>
 </element>
-<element name="C3" library="SPCoast" package="C050-024X044" value="10uF" x="15.875" y="19.685" smashed="yes" rot="R45">
-<attribute name="NAME" x="14.264934375" y="19.941415625" size="1.27" layer="25" rot="R45"/>
-<attribute name="VALUE" x="16.70259375" y="16.17654375" size="1.27" layer="27" rot="R45"/>
+<element name="C3" library="SPCoast" package="C050-024X044" value="10uF" x="15.24" y="19.685" smashed="yes" rot="R45">
+<attribute name="NAME" x="16.931934375" y="16.766415625" size="1.27" layer="25" font="vector" rot="R45"/>
+<attribute name="VALUE" x="16.002" y="23.114" size="1.27" layer="27" font="vector" rot="R90"/>
 </element>
-<element name="C2" library="SPCoast" package="C050-024X044" value="1.0uF" x="4.445" y="19.685" smashed="yes" rot="R135">
-<attribute name="NAME" x="7.1038625" y="20.65015" size="1.27" layer="25" rot="R135"/>
-<attribute name="VALUE" x="0.82429375" y="19.2712" size="1.27" layer="27" rot="R315"/>
+<element name="C2" library="SPCoast" package="C050-024X044" value="1.0uF" x="4.445" y="19.05" smashed="yes" rot="R135">
+<attribute name="NAME" x="3.9288625" y="16.84015" size="1.27" layer="25" font="vector" rot="R135"/>
+<attribute name="VALUE" x="4.064" y="22.352" size="1.27" layer="27" font="vector" rot="R90"/>
 </element>
 <element name="VR5.0" library="SPCoast" package="TO-220" value="5v" x="9.525" y="26.035" smashed="yes">
-<attribute name="NAME" x="12.54125" y="17.30375" size="1.27" layer="25" ratio="11" rot="R180"/>
-<attribute name="VALUE" x="8.5725" y="18.415" size="1.27" layer="27" ratio="10"/>
+<attribute name="NAME" x="12.54125" y="19.84375" size="1.27" layer="25" font="vector" ratio="11" rot="R180"/>
+<attribute name="VALUE" x="9.144" y="16.764" size="1.27" layer="27" font="vector" ratio="10"/>
 </element>
 <element name="WEMOS" library="SPCoast" package="WEMOS-D1" value="D1Mini" x="65.405" y="15.24" smashed="yes" rot="R270"/>
-<element name="C1" library="SPCoast" package="E5-10,5" value="150uF" x="19.05" y="6.985" smashed="yes" rot="R270">
-<attribute name="NAME" x="16.31" y="12.365" size="1.27" layer="25"/>
-<attribute name="VALUE" x="15.875" y="6.35" size="1.27" layer="27"/>
+<element name="C1" library="SPCoast" package="E5-10.5" value="150uF" x="21.59" y="9.525" smashed="yes" rot="R270">
+<attribute name="NAME" x="23.803" y="10.714" size="1.27" layer="25" font="vector"/>
+<attribute name="VALUE" x="19.177" y="15.113" size="1.27" layer="27" font="vector"/>
 </element>
-<element name="IC1" library="microchip" package="DIL28-3" value="MCP23017SP" x="62.23" y="39.37">
+<element name="IC1" library="SPCoast" package="DIL28-3" value="MCP23017SP" x="62.23" y="39.37" smashed="yes">
 <attribute name="MF" value="MICROCHIP" x="62.23" y="39.37" size="1.778" layer="27" font="vector" ratio="10" display="off"/>
 <attribute name="OC_FARNELL" value="1332088" x="62.23" y="39.37" size="1.778" layer="27" font="vector" ratio="10" display="off"/>
 <attribute name="OC_NEWARK" value="31K2959" x="62.23" y="39.37" size="1.778" layer="27" font="vector" ratio="10" display="off"/>
 <attribute name="MPN" value="MCP23017-E/SP" x="62.23" y="39.37" size="1.778" layer="27" font="vector" ratio="10" display="off"/>
+<attribute name="NAME" x="43.053" y="36.83" size="1.778" layer="25" font="vector" ratio="10" rot="R90"/>
+<attribute name="VALUE" x="46.482" y="38.481" size="1.778" layer="27" font="vector" ratio="10"/>
 </element>
 <element name="BBLEO" library="SPCoast" package="ARDUINO-BBLEO" value="" x="7.62" y="0"/>
-<element name="LS2" library="SPCoast" package="MODULE" value="" x="38.1" y="16.51"/>
+<element name="LS2" library="SPCoast" package="MODULE" value="" x="38.1" y="16.51" smashed="yes"/>
+<element name="U$1" library="SPCoast" package="MRCS-LOGO" value="DOC-MRCS-LOGOTOP" x="20.955" y="33.02"/>
 </elements>
 <signals>
 <signal name="GND" class="2">
 <polygon width="0.4064" layer="16" spacing="1.4224" isolate="0.3048" rank="2">
-<vertex x="78.74" y="0"/>
+<vertex x="78.74" y="0.635"/>
 <vertex x="78.74" y="26.67"/>
-<vertex x="81.28" y="26.67"/>
-<vertex x="81.28" y="50.8"/>
-<vertex x="0" y="50.8"/>
-<vertex x="0" y="0"/>
+<vertex x="80.645" y="26.67"/>
+<vertex x="80.645" y="49.365"/>
+<vertex x="0.635" y="49.365"/>
+<vertex x="0.635" y="0.635"/>
 </polygon>
 <via x="17.145" y="23.495" extent="1-16" drill="0.8"/>
 <via x="1.905" y="38.735" extent="1-16" drill="0.8"/>
@@ -807,10 +742,10 @@ design rules under a new name.</description>
 <contactref element="WEMOS" pad="GND"/>
 <contactref element="C1" pad="-"/>
 <polygon width="0.3048" layer="1" isolate="0.00030625">
-<vertex x="0" y="50.8"/>
-<vertex x="19.05" y="50.8"/>
+<vertex x="0.635" y="49.53"/>
+<vertex x="19.05" y="49.53"/>
 <vertex x="19.05" y="15.24"/>
-<vertex x="0" y="15.24"/>
+<vertex x="0.635" y="15.24"/>
 </polygon>
 <contactref element="IC1" pad="10"/>
 <contactref element="BBLEO" pad="GND@4"/>
@@ -833,15 +768,12 @@ design rules under a new name.</description>
 <contactref element="C2" pad="1"/>
 <contactref element="VR5.0" pad="IN"/>
 <contactref element="C1" pad="+"/>
-<wire x1="6.985" y1="22.225" x2="6.985" y2="20.955" width="0.8128" layer="1"/>
-<wire x1="6.985" y1="20.955" x2="6.985" y2="19.685" width="0.8128" layer="1"/>
-<wire x1="6.985" y1="19.685" x2="6.35" y2="19.05" width="0.8128" layer="1"/>
-<wire x1="6.35" y1="19.05" x2="5.08" y2="17.78" width="0.8128" layer="1"/>
-<wire x1="6.24105" y1="17.888946875" x2="6.35" y2="18.415" width="1.016" layer="1"/>
-<wire x1="6.35" y1="18.415" x2="6.35" y2="19.05" width="1.016" layer="1"/>
-<wire x1="19.05" y1="9.525" x2="13.895" y2="9.6" width="0.8128" layer="1"/>
-<wire x1="13.895" y1="9.6" x2="12.065" y2="11.43" width="0.8128" layer="1"/>
-<wire x1="5.08" y1="17.78" x2="11.43" y2="11.43" width="0.8128" layer="1"/>
+<wire x1="6.985" y1="22.225" x2="6.985" y2="17.272" width="0.8128" layer="1"/>
+<wire x1="6.985" y1="17.272" x2="6.985" y2="15.875" width="0.8128" layer="1"/>
+<wire x1="6.24105" y1="17.253946875" x2="6.985" y2="17.272" width="0.8128" layer="1"/>
+<wire x1="21.59" y1="12.065" x2="20.372" y2="11.505" width="0.8128" layer="1"/>
+<wire x1="20.372" y1="11.505" x2="12.065" y2="11.43" width="0.8128" layer="1"/>
+<wire x1="6.985" y1="15.875" x2="11.43" y2="11.43" width="0.8128" layer="1"/>
 <wire x1="11.43" y1="11.43" x2="12.065" y2="11.43" width="0.8128" layer="1"/>
 </signal>
 <signal name="SDA" class="2">
@@ -862,19 +794,13 @@ design rules under a new name.</description>
 <contactref element="WEMOS" pad="5V"/>
 <contactref element="C3" pad="1"/>
 <contactref element="VR5.0" pad="OUT"/>
-<wire x1="12.065" y1="22.225" x2="12.065" y2="21.59" width="0.6096" layer="1"/>
-<wire x1="12.065" y1="20.955" x2="12.065" y2="22.225" width="0.6096" layer="1"/>
-<wire x1="12.065" y1="19.685" x2="12.065" y2="22.225" width="0.8128" layer="1"/>
-<wire x1="12.065" y1="19.685" x2="12.7" y2="19.05" width="0.8128" layer="1"/>
-<wire x1="14.078946875" y1="17.888946875" x2="12.7" y2="18.415" width="0.6096" layer="1"/>
-<wire x1="12.7" y1="18.415" x2="12.7" y2="19.05" width="0.6096" layer="1"/>
 <polygon width="0.3048" layer="1" spacing="1.4224" isolate="0.4064" rank="2">
-<vertex x="78.74" y="0"/>
+<vertex x="78.74" y="0.635"/>
 <vertex x="78.74" y="26.67"/>
-<vertex x="81.28" y="26.67"/>
-<vertex x="81.28" y="50.8"/>
-<vertex x="0" y="50.8"/>
-<vertex x="0" y="0"/>
+<vertex x="80.645" y="26.67"/>
+<vertex x="80.645" y="49.365"/>
+<vertex x="0.635" y="49.365"/>
+<vertex x="0.635" y="0.635"/>
 </polygon>
 <contactref element="IC1" pad="9"/>
 <contactref element="BBLEO" pad="+5V@3"/>
@@ -890,12 +816,10 @@ design rules under a new name.</description>
 <wire x1="45.72" y1="2.54" x2="48.26" y2="2.54" width="0.6096" layer="16"/>
 <wire x1="48.26" y1="2.54" x2="48.26" y2="5.08" width="0.6096" layer="16"/>
 <contactref element="LS2" pad="HV"/>
-<wire x1="30.48" y1="15.24" x2="33.02" y2="15.24" width="0.6096" layer="1"/>
-<wire x1="30.48" y1="15.24" x2="30.48" y2="6.35" width="0.8128" layer="1"/>
-<wire x1="30.48" y1="6.35" x2="34.29" y2="2.54" width="0.8128" layer="1"/>
-<wire x1="34.29" y1="2.54" x2="45.72" y2="2.54" width="0.8128" layer="1"/>
-<wire x1="12.7" y1="19.05" x2="16.51" y2="15.24" width="0.8128" layer="1"/>
-<wire x1="16.51" y1="15.24" x2="30.48" y2="15.24" width="0.8128" layer="1"/>
+<wire x1="12.065" y1="22.225" x2="12.065" y2="19.26789375" width="0.8128" layer="1"/>
+<wire x1="12.065" y1="19.26789375" x2="13.443946875" y2="17.888946875" width="0.8128" layer="1"/>
+<wire x1="13.443946875" y1="17.888946875" x2="16.09289375" y2="15.24" width="0.8128" layer="1"/>
+<wire x1="16.09289375" y1="15.24" x2="33.02" y2="15.24" width="0.8128" layer="1"/>
 </signal>
 <signal name="RX" class="2">
 <contactref element="WEMOS" pad="RX"/>
@@ -943,7 +867,7 @@ design rules under a new name.</description>
 <wire x1="66.04" y1="45.085" x2="66.04" y2="43.18" width="0.254" layer="16"/>
 </signal>
 <signal name="SDAH" class="2">
-<contactref element="BBLEO" pad="D2"/>
+<contactref element="BBLEO" pad="SDA"/>
 <contactref element="IC1" pad="13"/>
 <wire x1="69.215" y1="18.415" x2="69.215" y2="28.575" width="0.254" layer="16"/>
 <wire x1="69.215" y1="28.575" x2="71.12" y2="30.48" width="0.254" layer="16"/>
@@ -954,7 +878,7 @@ design rules under a new name.</description>
 <wire x1="62.23" y1="11.43" x2="69.215" y2="18.415" width="0.254" layer="16"/>
 </signal>
 <signal name="SCLH" class="2">
-<contactref element="BBLEO" pad="D3"/>
+<contactref element="BBLEO" pad="SCL"/>
 <contactref element="IC1" pad="12"/>
 <wire x1="66.675" y1="18.415" x2="66.675" y2="28.575" width="0.254" layer="16"/>
 <wire x1="66.675" y1="28.575" x2="68.58" y2="30.48" width="0.254" layer="16"/>
@@ -1154,6 +1078,14 @@ design rules under a new name.</description>
 <approved hash="3,1,dcee8208828cdc6a"/>
 <approved hash="3,1,e5428aa48a9ae57c"/>
 <approved hash="3,1,7666f6b9ca68bd8c"/>
+<approved hash="3,1,46d14dad4e8245fe"/>
+<approved hash="3,1,45bf4ec34e42453e"/>
+<approved hash="3,1,693db433f921a92e"/>
+<approved hash="3,1,61189c72308fe00c"/>
+<approved hash="3,1,a3bf757e0518ed7e"/>
+<approved hash="3,1,0d45bcdd3a59107e"/>
+<approved hash="3,1,248a687563f42dcd"/>
+<approved hash="3,1,f142dabed600fdfc"/>
 </errors>
 </board>
 </drawing>
