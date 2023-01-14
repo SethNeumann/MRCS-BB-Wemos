@@ -6166,7 +6166,7 @@ Source: http://ww1.microchip.com/downloads/en/DeviceDoc/21952a.pdf</description>
 <part name="LABEL1" library="SPCoast" deviceset="DOC-POWER_LABEL" device="" value="7-12vDC"/>
 <part name="C3" library="SPCoast" deviceset="CAP*" device="PTH1" value="10uF"/>
 <part name="C2" library="SPCoast" deviceset="CAP*" device="PTH1" value="1.0uF"/>
-<part name="VR5.0" library="SPCoast" deviceset="VREG-?-*" device="PTH-FLAT" technology="5" value="5v"/>
+<part name="VR5.0" library="SPCoast" deviceset="VREG-?-*" device="PTH-RA" value="5v"/>
 <part name="WEMOS" library="SPCoast" deviceset="WEMOS-D1" device="V1" value="D1Mini"/>
 <part name="V7" library="supply2" deviceset="GND" device=""/>
 <part name="3V18" library="supply1" deviceset="+3V3" device=""/>
