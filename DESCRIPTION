@@ -1,3 +1,4 @@
+MRCS cpNode BB-Wemos
 WeMos board adapter for BB-Leo format to fit on cpNode
 
 This board contains a Wemos D1 processor, 1A regulator, level shifters and an MCP23017 to provide a rough equivalent to a BB-Leo.
